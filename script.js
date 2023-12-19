@@ -8,7 +8,7 @@ let unique = alpha.split("");
 // console.log(unique.length)
 
 const randomAlphabetGen = () => {
-  let random = Math.floor(Math.random() * 62 + 1);
+  let random = Math.floor(Math.random() * unique.length);
   return unique[random];
 };
 
