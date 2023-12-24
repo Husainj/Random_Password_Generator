@@ -2,4 +2,8 @@
 This is a project to generate Random Password as per user defined number of characters.
 This project uses mainly HTML , CSS and JAVASCRIPT.
 
-[Project Link](https://password-generator.husainjhalodwal.repl.co/)
+Project Preview : 
+
+[Old Version(v1.0)](https://password-generator.husainjhalodwal.repl.co/)
+[new Version(v1.0)](https://password-generator-v11.husainjhalodwal.repl.co/)
+
