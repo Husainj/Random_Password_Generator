@@ -4,6 +4,6 @@ This project uses mainly HTML , CSS and JAVASCRIPT.
 
 Project Preview : 
 
-[Old Version(v1.0)](https://password-generator.husainjhalodwal.repl.co/)
+[Old Version(v1.0)](https://password-generator.husainjhalodwal.repl.co/)<br>
 [new Version(v1.0)](https://password-generator-v11.husainjhalodwal.repl.co/)
 
